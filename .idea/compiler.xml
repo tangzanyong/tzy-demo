@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tzy-demo-annotation" />
+        <module name="tzy-demo-mqtt" />
+        <module name="tzy-demo-swagger" />
+        <module name="tzy-demo-utils" />
+        <module name="tzy-demo-websocket-netty" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-tzy-demo-test" target="1.8" />
+      <module name="tzy-demo" target="1.8" />
+      <module name="tzy-demo-annotation" target="1.8" />
+      <module name="tzy-demo-mqtt" target="1.8" />
+      <module name="tzy-demo-swagger" target="1.8" />
+      <module name="tzy-demo-utils" target="1.8" />
+      <module name="tzy-demo-websocket" target="1.8" />
+      <module name="tzy-demo-websocket-netty" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
