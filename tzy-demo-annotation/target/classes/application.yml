@@ -1,4 +1,0 @@
-spring:
-  redis:
-    host: 10.0.103.2
-    port: 6379
